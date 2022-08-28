@@ -6,9 +6,9 @@ ile giriş yapabilirsiniz.
 
 
 
-# Getting Started with Create React App![screen-capture (3)](https://user-images.githubusercontent.com/24234586/187084815-fa3354ff-0314-4bd7-83b4-a3bc18166edf.gif)
+![screen-capture (3)](https://user-images.githubusercontent.com/24234586/187084815-fa3354ff-0314-4bd7-83b4-a3bc18166edf.gif)
 
-
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
